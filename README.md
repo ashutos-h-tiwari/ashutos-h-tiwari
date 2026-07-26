@@ -26,7 +26,7 @@ I am a **Computer Science & AIML student** focused on building efficient softwar
 - 🤝 **Looking to collaborate on:** Machine Learning, Computer Vision, and cross-platform Flutter projects
 - ⚡ **Fun fact:** I enjoy turning complex architectural ideas into working, high-performance products 🚀
 
-> *"Good software isn't just code — it's reliability, consistency, and thoughtful engineering."*
+> *"Good software isn't just code-- it's reliability, consistency, and thoughtful engineering."*
 
 ---
 
