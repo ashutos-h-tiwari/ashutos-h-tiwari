@@ -39,6 +39,7 @@ I am a **Computer Science & AIML student** focused on building efficient softwar
 ### Highlights
 
 - ⚡ **Real-Time Messaging:** Instant data synchronization for chat rooms & direct messaging
+- 😌 **END TO END ENCRYPTED" Chats.
 - 🔐 **Secure Authentication:** REST API integration with token-based session management
 - 🎨 **Modern Dark UI:** Custom portal glassmorphic UI built with Flutter and custom shaders
 - 📦 **Backend Architecture:** Node.js/Express REST APIs with persistent MongoDB database storage
